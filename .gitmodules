@@ -1,0 +1,6 @@
+[submodule "manager"]
+	path = manager
+	url = https://github.com/shooter-dev/mangacollec_manager.git
+[submodule "worker"]
+	path = worker
+	url = https://github.com/shooter-dev/mangacollec_worker.git
