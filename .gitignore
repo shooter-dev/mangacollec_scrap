@@ -1,3 +1,6 @@
+# Project
+results.db
+
 # Environments
 .env
 .venv
